@@ -20,6 +20,7 @@
   </li>
 </ul>
 
+<hr>
 
 <h3>Hello!</h3>
 <p>I'm - Junior Frontend-developer</p>
