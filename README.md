@@ -20,3 +20,24 @@
   </li>
 </ul>
 
+
+<h3>Hello!</h3>
+<p>I'm - Junior Frontend-developer</p>
+<h3>Technologies</h3>
+<ul>
+  <li>
+    <strong>HTML</strong>
+  </li>
+  <li>
+    <strong>CSS</strong>
+  </li>
+ <li>
+    <strong>JavaScript</strong>
+  </li>
+  <li>
+    <strong>ReactJS</strong>
+  </li>
+  <li>
+    <strong>NextJS</strong>
+  </li>
+</ul>
