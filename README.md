@@ -3,12 +3,12 @@
 <p>Я - Junior Frontend-разработчик</p>
 <h3>Технологии</h3>
 <ul>
-  <li>React, Typescript, Next.js</li>
-  <li>Zustand, Redux</li>
-  <li>SCSS, Tailwind, Styled-Components, Framer-Motion</li>
+  <li>HTML, JavaScript, React, Next.js, TypeScript</li>
+  <li>Zustand, Redux-Toolkit</li>
+  <li>CSS, SCSS, Tailwind, Styled-Components, Framer-Motion</li>
   <li>React-Router-Dom, TanStack-Router</li>
   <li>Git</li>
-  <li>Axios, React Query, SWR</li>
+  <li>Axios, React Query, SWR, RTK-Query</li>
   <li>Prisma ( SQLite ), Firebase, MongoDB</li>
 </ul>
 
@@ -18,11 +18,11 @@
 <p>I'm - Junior Frontend-developer</p>
 <h3>Technologies</h3>
 <ul>
-  <li>React, Typescript, Next.js</li>
-  <li>Zustand, Redux</li>
-  <li>SCSS, Tailwind, Styled-Components, Framer-Motion</li>
+  <li>HTML, JavaScript, React, Next.js, TypeScript</li>
+  <li>Zustand, Redux-Toolkit</li>
+  <li>CSS, SCSS, Tailwind, Styled-Components, Framer-Motion</li>
   <li>React-Router-Dom, TanStack-Router</li>
   <li>Git</li>
-  <li>Axios, React Query, SWR</li>
+  <li>Axios, React Query, SWR, RTK-Query</li>
   <li>Prisma ( SQLite ), Firebase, MongoDB</li>
 </ul>
