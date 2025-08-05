@@ -1,4 +1,4 @@
 
 <h1>👋 Hello there! I'm Ruslan Khairullin</h1>
-<h2>Frontend Developer</h2>
+<p>Frontend Developer</p>
 <h2>🔥 Tech stack</h2>
