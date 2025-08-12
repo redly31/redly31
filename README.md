@@ -1,4 +1,4 @@
-<h1>👋 Hello there! I'm Ruslan Khairullin</h1>
+<h1>👋 Hello there! I'm Ruslan</h1>
 <h2>🤖 Tech stack</h2>
 
 > General
