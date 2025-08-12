@@ -6,17 +6,9 @@
 <ul>
   <li>javascript</li>
   <li>typescript</li>
+  <li>react</li>
   <li>html</li>
   <li>css</li>
   <li>figma</li>
   <li>git</li>
-</ul>
-
-> Frontend
-
-<ul>
-  <li>react</li>
-  <li>vite</li>
-  <li>tailwind</li>
-  <li>sass</li>
 </ul>
